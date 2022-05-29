@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Currency Converter",
+      "live": "https://kellyluuu.github.io/Cryptocurrency-Converter/",
+      "git": "https://github.com/kellyluuu/Cryptocurrency-Converter",
+      "image": "https://github.com/kellyluuu/Cryptocurrency-Converter/raw/main/docs/Screen_Shot.png"
     },
     {
       "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://universitystore.herokuapp.com/store",
+      "git": "https://github.com/kellyluuu/Project2",
+      "image": "https://github.com/kellyluuu/Project2/raw/main/doc/index.png"
     }
   ]
